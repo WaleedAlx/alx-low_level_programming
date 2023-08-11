@@ -1,14 +1,11 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main - enty point
+ * main - Entry point
  *
- * Description: C program to prints string using puts
- *
- * Return: Always return 0 (success)
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle");
-	return(0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
