@@ -14,7 +14,6 @@ void  positive_or_negative(int i)
 {
 	/* i is the recieved number to check*/
 	int n = i;
-
 		if (n > 0)
 	{
 		printf("%d is positive\n", n);
