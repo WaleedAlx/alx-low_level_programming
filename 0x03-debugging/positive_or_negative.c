@@ -7,9 +7,10 @@
  *
  * Description: Check if positive or negative
  *
- * int i: number recieved to check
+ * @i: describe input
+ *
  */
-void positive_or_negative(int i)
+void  positive_or_negative(int i)
 {
 	/* i is the recieved number to check*/
 	int n = i;
