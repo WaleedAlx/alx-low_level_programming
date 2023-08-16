@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Determines if a number is positive, negative or zero.
+ * positive_or_negative - Determines if a number is positive, negative or zero.
+ *
+ * Description: Check if positive or negative
  *
  * Return: Always 0 (Success)
  */
