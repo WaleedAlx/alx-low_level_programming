@@ -2,9 +2,11 @@
 #include <stdio.h>
 
 /**
- * main - check the code.
+ * main - Entry point
  *
- * Return: Always 0.
+ * Description: checks if character is upper case
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {

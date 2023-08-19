@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * main - Entry point
  *
- * Return: Always 0.
+ * Description: print diagonal
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {

@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * main - Entry point
+ *
+ * Description: test calling print to 98 function 
  *
  * Return: Always 0.
  */

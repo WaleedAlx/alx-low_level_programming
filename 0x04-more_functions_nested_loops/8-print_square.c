@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * print_square - prints a square, followed by a new line;
- * @size: size of the square
+ * print_square - Prints # char many times to presents a square
+ *
+ * @size: int parameter ti present the  size of the square
  */
 void print_square(int size)
 {

@@ -2,6 +2,8 @@
 /**
 * main - Entry point
 *
+* Description: program to test and print sizeof of different data types
+*
 * Return: Always 0 (Success)
 */
 int main(void)

@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - fibonacci <3
+ * main - Entry point
  *
- * Purpose - no hardcode
+ * Description: prints fibonacci
  *
  * Return:  (Success)
  */

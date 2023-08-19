@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * main - Entry point
+ *
+ * Description: prints the last digit
  *
  * Return: Always 0.
  */

@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * main - Entry point
+ *
+ * Description: print the sum of two numbers
  *
  * Return: Always 0.
  */

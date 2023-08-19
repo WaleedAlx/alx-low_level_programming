@@ -5,9 +5,9 @@
 /**
  * positive_or_negative - Determines if a number is positive, negative or zero.
  *
- * Description: Check if positive or negative
+ * Description: Check if positive or negative or zero
  *
- * @i: describe input
+ * @i: int input parameter
  *
  */
 void  positive_or_negative(int i)

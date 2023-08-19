@@ -2,9 +2,11 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * main - Entry point
  *
- * Return: Always 0.
+ * Description: prtiny the result for mul two numbers
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {

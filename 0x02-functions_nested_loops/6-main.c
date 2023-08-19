@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * main - Entry point
+ *
+ * Description: checks the absolute value 
  *
  * Return: Always 0.
  */

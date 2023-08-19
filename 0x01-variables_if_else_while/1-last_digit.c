@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Prints the last digit of a randomly generated number
- * and whether it is greater than 5, less than 6, or 0.
+ * main - Entry point
+ *
+ * Description: check certian conditions and prints the last digit of a specific number
  *
  * Return: Always 0.
  */

@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * main - Entry point
+ *
+ * Description: checks if character is lower case
  *
  * Return: Always 0.
  */

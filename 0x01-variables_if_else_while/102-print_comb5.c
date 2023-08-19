@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - prints all possible combinations of two two-digit numbers
+ * main - Entry point
+ *
+ * Description: prints all possiable combinations of two digits numbers
+ *
  * Return: Always 0 (Success)
  */
 int main(void)

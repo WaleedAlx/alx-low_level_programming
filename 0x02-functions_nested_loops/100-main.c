@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * main - Entry point 
+ *
+ * Description: calling function to print time table
  *
  * Return: Always 0.
  */

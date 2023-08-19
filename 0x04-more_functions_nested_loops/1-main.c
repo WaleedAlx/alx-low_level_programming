@@ -2,9 +2,11 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * main - Entry point
  *
- * Return: Always 0.
+ * Description: check if char is number and print the result
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {

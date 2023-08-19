@@ -1,10 +1,10 @@
 #include "main.h"
 /**
-* main - Test function for positive or negative
+* main - Entry point
 *
 * Description: Test positive or negative
 *
-* Return: 0
+* Return: 0 (success)
 */
 int main(void)
 {

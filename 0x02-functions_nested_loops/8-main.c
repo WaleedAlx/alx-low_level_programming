@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * main - Entry point
  *
- * Return: Always 0.
+ * Description: call jack_bauer to print time of day
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {
