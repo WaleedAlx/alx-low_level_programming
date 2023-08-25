@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ * Description: print integer number
+ * Return: 0 (Success)
+*/
 int main(void)
 {
 	int n;
