@@ -1,5 +1,7 @@
 #include "main.h"
 
+int wildcmp(char *s1, char *s2);
+
 /**
  * wildcmp - Funtion to Compare two strings
  * @s1: pointer to 1st string param
