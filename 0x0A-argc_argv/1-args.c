@@ -3,7 +3,7 @@
 
 /**
  * main - Entry point
- * Description: Program that prints 
+ * Description: Program that prints
  * the number of arguments passed to the program
  * @argc: The number of arguments
  * @argv: The array of arguments
