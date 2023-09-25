@@ -11,9 +11,9 @@
  */
 typedef struct list_crs
 {
-        char *str;
-        unsigned int len;
-        struct list_crs *next;
+	char *str;
+	unsigned int len;
+	struct list_crs *next;
 } list_t;
 
 size_t print_list(const list_t *h);
