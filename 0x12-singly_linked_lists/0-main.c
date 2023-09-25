@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-#include "linked_lists.h"
+#include "lists.h"
 
 /**
  * main - Entry point
@@ -26,12 +26,12 @@ int main(void)
 	new->len = 5;
 	new->next = head;
 	head = new;
-	n = print_linked_list(head);
+	n = print_list(head);
 	printf("-> %lu elements\n", n);
 	printf("\n");
 	free(new->str);
 	new->str = NULL;
-	n = print_linked_list(head);
+	n = print_list(head);
 	printf("-> %lu elements\n", n);
 	free(new);
 	return (0);

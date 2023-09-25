@@ -1,14 +1,14 @@
 #include <stdio.h>
-#include "linked_lists.h"
+#include "lists.h"
 
 /**
- * print_linked_list - Function to  prints
+ * print_list - Function to  prints
  * all the elements in a linked list
  * @p: The pointer to the list to print
  *
  * Return: The number of nodes printed
  */
-size_t print_linked_list(const list_t *p)
+size_t print_list(const list_t *p)
 {
 	size_t siz = 0;
 
